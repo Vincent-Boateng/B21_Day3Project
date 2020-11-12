@@ -15,7 +15,11 @@ public class Cocomelon {
 
         String sentence = "I love Java";
 
+<<<<<<< HEAD
         char ch = 'a';
+=======
+        char eachChar = 'a';
+>>>>>>> origin/master
 
         String reversedSentence = "";
 
