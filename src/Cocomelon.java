@@ -9,6 +9,6 @@ public class Cocomelon {
 
         System.out.println(a + b);
 
-
+//cocomelon is a funny class name
     }
 }
