@@ -13,16 +13,6 @@ public class Cocomelon {
 
         System.out.println("========================================================================");
 
-        String sentence = "I love Java";
-
-<<<<<<< HEAD
-        char ch = 'a';
-=======
-        char eachChar = 'a';
->>>>>>> origin/master
-
-        String reversedSentence = "";
-
 
 
 
